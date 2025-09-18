@@ -1,0 +1,6 @@
+com\edu\controller\MovieInfoController.class
+com\edu\entity\MovieInfo.class
+com\edu\MovieCatalogServiceApplication.class
+com\edu\service\MovieInfoServiceImpl.class
+com\edu\service\MovieInfoService.class
+com\edu\repository\MovieInfoRepository.class
